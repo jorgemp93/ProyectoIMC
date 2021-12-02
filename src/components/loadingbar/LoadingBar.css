@@ -1,0 +1,25 @@
+.loadingbar {
+    background: #1F2025;
+    color: #fff;
+    height: 60px;
+    width: 30%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 8px;
+    box-shadow: 2px 2px 4px #3d3d3d, -2px -2px 4px #3d3d3d;
+}
+
+.loadingbar2 {
+    background: #1F2025;
+    color: #fff;
+    height: 60px;
+    width: 30%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 8px;
+    box-shadow: 2px 2px 4px #3d3d3d, -2px -2px 4px #3d3d3d;
+}
